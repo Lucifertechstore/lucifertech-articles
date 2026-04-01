@@ -1,0 +1,11 @@
+# robots.txt for lucifertech-articles
+# https://lucifertechstore.github.io/lucifertech-articles/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lucifertechstore.github.io/lucifertech-articles/sitemap.xml
+
+Disallow: /drafts/
+Disallow: /_site/
+Disallow: /.git/
