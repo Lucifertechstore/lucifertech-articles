@@ -1,0 +1,34 @@
+# Jekyll Configuration for lucifertech-articles
+title: "Lucifer Tech Articles"
+description: "Bai viet & huong dan ve cac cong cu AI: ChatGPT, Claude, Canva Pro, Cursor - danh cho nguoi dung Viet Nam"
+url: "https://lucifertechstore.github.io"
+baseurl: "/lucifertech-articles"
+lang: vi
+
+author:
+  name: "Lucifer Tech"
+    email: "admin@lucifertech.store"
+      url: "https://www.lucifertech.store"
+
+      social:
+        name: Lucifer Tech
+          links:
+              - https://www.facebook.com/Lucifer.Ai.Automation
+                  - https://www.youtube.com/@lucifertechstore
+                      - https://www.linkedin.com/in/lucifer-tech-64167a3b7/
+                          - https://medium.com/@lucifertech
+
+                          theme: minima
+                          plugins:
+                            - jekyll-feed
+                              - jekyll-sitemap
+                                - jekyll-seo-tag
+
+                                markdown: kramdown
+                                highlighter: rouge
+
+                                exclude:
+                                  - README.md
+                                    - Gemfile
+                                      - node_modules
+                                      
