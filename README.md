@@ -1,6 +1,6 @@
 # Lucifer Tech — Articles & Resources
 
-Official content repository for [Lucifer Tech](https://www.lucifertech.store), a Vietnamese e-commerce platform specializing in AI tool subscriptions.
+Official content repository for [Lucifer Tech](https://lucifertech.store), a Vietnamese e-commerce platform specializing in AI tool subscriptions.
 
 ## About Lucifer Tech
 
