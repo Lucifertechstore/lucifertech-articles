@@ -6,7 +6,7 @@ Official content repository for [Lucifer Tech](https://www.lucifertech.store), a
 
 Founded in May 2024 and based in Da Nang, Vietnam, Lucifer Tech provides premium accounts for over 50 AI productivity tools including ChatGPT, Claude AI, Canva Pro, Adobe Creative Cloud, Cursor Pro, and more.
 
-- 🌐 Website: [lucifertech.store](https://www.lucifertech.store)
+- 🌐 Website: [lucifertech.store](https://lucifertech.store)
 - 📧 Email: admin@lucifertech.store
 - 📞 Phone: +84-398-573-723
 - 📍 Location: 243 Phan Dang Luu, Cam Le, Da Nang 55000, Vietnam
